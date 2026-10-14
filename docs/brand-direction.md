@@ -43,3 +43,13 @@
 - 기타 LWG 베지터블: Walpier(Silver, ~2027-12, 추적 0%), Tempesti(Gold, 2026-05 만료 표시), La Perla Azzurra(Silver, 2026-07 만료 표시), Il Ponte(Gold — 언론 보도, 미확인)
 - 대안 경로: Tärnsjö Garveri(스웨덴 유기농·농장 추적, LWG/ICEC 아님), IVN Naturleder 인증(부산물 원피만 허용, 전 공급망 추적 요구)
 - 약속 문구 조정 검토: "ICEC 추적" 단정 대신 "추적 등급/비율 공개"
+
+## 7. 원단 인증 최소 기준 ✅
+- 1순위: LWG + ICEC 추적성(TS 410/412)
+- ICEC 추적성이 어려우면 최소: **LWG(Silver 이상, 유효기간 내) + 동물복지 증빙 1개 이상**
+- 동물복지 증빙 후보 (강한 순)
+  1. 농장 단위 인증: Textile Exchange LIA 승인 스킴, KRAV(스웨덴 유기농), Biokreis/IVN Naturleder
+  2. ICEC 동물복지 위험 분석(추적성 인증에 추가하는 옵션, 소·양·염소)
+  3. ICEC 윤리 클레임 "We recover our hides from the food chain" — 부산물 증빙(동물복지 인증은 아님)
+  4. 태너리 자체 동물복지 정책(5대 자유) — 최소 수준, 인증 아님
+- ICEC 비용: 태너리가 부담하는 유료 인증. 브랜드는 인증 원단 구매 + 인증서 사본 확보만. 문구는 "ICEC 인증 태너리의 가죽"으로 (제품/브랜드 인증 표현 금지)
